@@ -1,0 +1,13 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+                   0 A= 0110 B = 0010 ALU_Sel = 000 ALU_Result = 1000
+                 100 A= 0110 B = 0010 ALU_Sel = 001 ALU_Result = 0100
+                 200 A= 0110 B = 0010 ALU_Sel = 010 ALU_Result = xxxx
+                 300 A= 0110 B = 0010 ALU_Sel = 011 ALU_Result = xxxx
+                 400 A= 0110 B = 0010 ALU_Sel = 100 ALU_Result = 0010
+                 500 A= 0110 B = 0010 ALU_Sel = 101 ALU_Result = 0110
+                 600 A= 0110 B = 0010 ALU_Sel = 110 ALU_Result = 0100
+                 700 A= 0110 B = 0010 ALU_Sel = 111 ALU_Result = 1001
+                 800 A= 0110 B = 0010 ALU_Sel = 000 ALU_Result = 1000
+                 900 A= 0110 B = 0010 ALU_Sel = 001 ALU_Result = 0100
+                1000 A= 0110 B = 0010 ALU_Sel = 010 ALU_Result = xxxx
